@@ -7,4 +7,5 @@ public class OppgaveO2 {
 
 	}
 
-}
+}//hva
+ 
